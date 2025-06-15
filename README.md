@@ -1,2 +1,1 @@
-# Project-2
-Version of my project 2 game
+# This project simulates a two-player version of the fast-paced card game Egyptian Rat Screw (simplified as "Egyptian"). The game is implemented entirely in C++ and incorporates statistical tracking, gameplay logging, card history, and simulated reflex mechanics. The objective is to simulate an engaging, repeatable card game experience with round-by-round analysis, player statistics, and visual feedback on card usage.
